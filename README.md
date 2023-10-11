@@ -1,21 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ignacio, Ignus, Nacho</h1>
-<h3 align="center">A Mortal Kombat tested Solution Architect from Asuncion, Paraguay</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imroca&label=Profile%20views&color=0e75b6&style=flat" alt="imroca" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imroca" alt="imroca" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/imalignus" target="blank"><img src="https://img.shields.io/twitter/follow/imalignus?logo=twitter&style=for-the-badge" alt="imalignus" /></a> </p>
+<h1 align="center">Hi 👋, I'm Ignacio</h1>
+<h3 align="center">A Senior Solution Architect and Software Engineer from Asuncion, Paraguay</h3>
 
 - 🔭 I’m currently working on [an Identity Solution with Auth0](https://auth0.com/)
-
-- 🌱 I’m currently learning **Rust Lang**
 
 - 💬 Ask me about **Clean Architecture, Full Stack**
 
 - 📫 How to reach me **imroca@gmail.com**
-
-- 📄 Know about my experiences [imroca.com](imroca.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
