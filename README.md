@@ -1,10 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ignacio</h1>
-<h3 align="center">A Senior Solution Architect and Software Engineer from Asunción, Paraguay</h3>
-
-- 💬 Ask me about **Clean Architecture, Full Stack, MMA, F1**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h1>Hi 👋, I'm Ignacio</h1>
+<h3>A Senior Solution Architect and Software Engineer from Asunción, Paraguay</h3>
+<h3>Find me here:</h3>
+<p>
 <a href="https://dev.to/imalignus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="imalignus" height="16" width="24" /></a>
 <a href="https://twitter.com/imalignus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imalignus" height="16" width="24" /></a>
 <a href="https://linkedin.com/in/imroca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imroca" height="16" width="24" /></a>
