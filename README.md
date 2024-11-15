@@ -2,9 +2,9 @@
 <h3>A Senior Solution Architect and Software Engineer from Asunción, Paraguay</h3>
 
 <h3>Skills:</h3>
-- All things web: HTML, CSS, Javascript, React, Node.
-- AWS Stack: Cloudfront, S3, ApiGateway, Lambda, DynamoDB.
-- CI/CD: Gitlab CI.
+<p>All things web: HTML, CSS, Javascript, React, Node.</p>
+<p>AWS Stack: Cloudfront, S3, ApiGateway, Lambda, DynamoDB.</p>
+<p>CI/CD: Gitlab CI.</p>
 
 <h4>Find me here:</h4>
 <p>
