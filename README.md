@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Ignacio</h1>
+<h1>Hi! I'm Ignacio</h1>
 <h3>A Senior Solution Architect and Software Engineer from Asunción, Paraguay</h3>
 
 <h3>Skills:</h3>
